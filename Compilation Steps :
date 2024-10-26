@@ -1,0 +1,3 @@
+Install tkinter, PIL, numpy, cv2, os, random
+After that download the code file, and run image_encryption_decryption.py on local system.
+Then the script will start running and user can explore it by encrypting and decrypting any image and saving it.
